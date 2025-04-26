@@ -1,0 +1,98 @@
+GoZero : Surplus product and waste management
+Scope
+1.      Help me SHARE/SELL
+2.      Help me DISPOSE
+3.      Help me buy/acquire
+ 
+I am a local restaurant business or a food production unit, which makes me a seller
+·       Tinder like UI where a person with surplus food/article/commodity creates a tinder like profile enlisting the picture, description, date of purchase, expiry date, their location
+·       They will select whether they want to sell or donate via selecting a category
+·       Each profile offers a chat feature to connect interested parties
+·       Their enlisted items will be visible to other near to their area.
+·       Add tags and categories to best describe your product.
+.    Perishable foods Vs non perishable surplus food. 
+I am a local volunteer in food shelters
+·       Tinder like UI where swipe right will add to my cart
+·       I can chat and connect with the profile
+·       A dropdown lets me choose the feasible distance radius I am looking in
+.    I can also post any new requests for food.
+ 
+INCENTIVES PROGRAM for those who donate
+FILTER view and choose what you are looking for
+ 
+ 
+HELP ME DISPOSE
+·       Category based Guide to dispose furniture , e-waste  
+·       A live map of the e-waste disposal near me
+·       Live map of furniture disposal near me
+·       Incentives for safe disposal of gadgets and furniture
+·       Notifier of donation drives happening near me
+·       Listing details of certified NGOs near me who acquire furniture/clothes etc
+
+
+Common Features (All Users)
+Login/Signup (Google, email, or mobile)
+Location detection and adjustable radius filter
+Tinder-style swipe interface for browsing items
+Search and filter by category, urgency, and tags
+In-app chat to connect with item owners
+Incentives dashboard to track rewards and environmental impact
+Push notifications for new listings and donation drives
+“I am a Seller / Donor” Features
+Create listing:
+Upload images
+Add description, purchase date, expiry date, and location
+Select category (food, clothes, furniture, etc.)
+Choose whether to donate or sell
+Add descriptive tags (e.g., organic, gadget, urgent)
+Manage my listings:
+Edit, update, or mark items as given/sold
+Track interest or incoming chats
+Impact tracker:
+Track the number of donations made
+Estimate CO₂ or waste saved
+Points earned for each contribution
+
+
+“I am a Buyer / Acquirer” Features
+Swipe to browse:
+Swipe right to add to interest/cart
+Swipe left to skip
+Set preferences:
+Maximum distance
+Interested categories
+Urgency filters (soon-to-expire, clearance)
+Chat with donors/sellers to arrange pick-up
+View acquired items:
+Maintain history of claimed items
+“Help Me Dispose” Features
+Category-based disposal guide:
+Furniture
+E-gadgets
+Clothes, plastics, and other items
+Live disposal map:
+Shows nearby recycling or disposal centers
+Includes directions and contact information
+Certified NGO listing:
+Find local organizations accepting item donations
+Filter by category and distance
+Local drives notification:
+Alert for donation/collection drives
+Option to RSVP or schedule pickup
+Safe disposal rewards:
+Scan a QR code at drop-off points or upload proof of disposal
+Earn points for verified responsible disposal
+Incentive System
+Users earn GreenPoints for:
+Donating surplus items
+Disposing of items responsibly
+Referring others to the platform
+Redeem options:
+Badges and leaderboard positions
+Discounts from eco-friendly brand partners
+Tree-planting sponsorships or carbon offset rewards
+
+
+
+ 
+
